@@ -1,0 +1,22 @@
+.para {
+    color: #000000;
+    background-color: #fdb7c3;
+    font-family: "Verdana",sans-serif;
+    
+}
+
+#field-2 {
+    color: #4169e1;
+    font-size: 36px;
+}
+
+.para.small {
+    font-size: 24px;
+}
+
+#field-4 {
+    background-color: #a9d6bd;
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+}
